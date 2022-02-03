@@ -26,18 +26,14 @@ HELP = """
 ➥ /total How Many Files Added In Database
 ➥ /logger  Get Logs
 ➥ /delete Delete File From Database
+➥ /index Add Old Files to database]
 
-<b>[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
-
-@Mo_Tech_YT></b>
 """
 
 ABOUT = """
 ➥ Name : Auto Filter With IMDB
     
-➥ Credits : Subin
-
-➥ Editing : [Muhammed RK](t.me/Mrk_YT)
+➥ Credits : Alen
 
 ➥ Language : Python3
 
